@@ -1,4 +1,7 @@
-![Ntando Miya - Developer & DevOps Enthusiast](https://github.com/Sekani-27/Sekani-27/blob/main/ChatGPT%20Image%20Oct%207,%202025,%2011_39_14%20AM.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/Sekani-27/Sekani-27/blob/main/ChatGPT%20Image%20Oct%207,%202025,%2011_39_14%20AM.png?raw=true" alt="Ntando Miya - Developer & DevOps Enthusiast" width="70%">
+</p>
 
 # 👋 Hi, I'm Ntando Miya
 
