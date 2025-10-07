@@ -1,4 +1,4 @@
-![Ntando Miya - Developer & DevOps Enthusiast](https://raw.githubusercontent.com/NtandoMiya/NtandoMiya/main/banner.png)
+![Ntando Miya - Developer & DevOps Enthusiast](https://github.com/Sekani-27/Sekani-27/blob/main/ChatGPT%20Image%20Oct%207,%202025,%2011_39_14%20AM.png?raw=true)
 
 # 👋 Hi, I'm Ntando Miya
 
