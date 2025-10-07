@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Ntando Miya
 
-<!--
-**Sekani-27/Sekani-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Developer | DevOps Enthusiast | Tech Innovator**
 
-Here are some ideas to get you started:
+I'm passionate about building efficient systems — from backend logic to automated deployment pipelines.  
+Currently exploring **cloud technologies**, **CI/CD pipelines**, and **containerization** as I grow in the DevOps space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+**Languages:** Python | Dart | Java | JavaScript  
+**Tools & Frameworks:** Flutter | Node.js | FastAPI  
+**DevOps & Cloud:** Docker | GitHub Actions | Linux | CI/CD | AWS (learning)
+
+---
+
+### 🧩 Projects
+- 🧠 **AI Content Generator** – built an AI tool that creates technical documentation and code explanations  
+- 📱 **Flutter Banking App** – designed and built a mobile app for financial transactions  
+- ⚙️ **Automation Scripts** – automating repetitive tasks using Python + Bash  
+
+---
+
+### 📈 Currently Learning
+- Docker & container orchestration  
+- CI/CD pipelines with GitHub Actions  
+- Cloud infrastructure & monitoring tools  
+
+---
+
+### 📫 Connect with Me
+- GitHub: [github.com/ntandomiya](https://github.com/ntandomiya)  
+
+
+---
+
+> “Code, automate, deploy — repeat.”
+
+
+
