@@ -29,7 +29,7 @@ Currently exploring **cloud technologies**, **CI/CD pipelines**, and **container
 ---
 
 ### 📫 Connect with Me
-- GitHub: [github.com/ntandomiya](https://github.com/ntandomiya)  
+- GitHub: [github.com/ntandomiya](https://github.com/Sekani-27)  
 
 
 ---
