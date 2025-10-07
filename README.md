@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Sekani-27/Sekani-27/blob/main/Ntando%20Banner-modified.png?raw=true" alt="Ntando Miya - Developer & DevOps Enthusiast"  width="75%">
+  <img src="https://github.com/Sekani-27/Sekani-27/blob/main/Ntando%20Banner-modified.png?raw=true" alt="Ntando Miya - Developer & DevOps Enthusiast" height="300" width="100%">
 </p>
 
 # 👋 Hi, I'm Ntando Miya
