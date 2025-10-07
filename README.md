@@ -1,3 +1,4 @@
+![Ntando Miya - Developer & DevOps Enthusiast](https://raw.githubusercontent.com/NtandoMiya/NtandoMiya/main/banner.png)
 
 # 👋 Hi, I'm Ntando Miya
 
