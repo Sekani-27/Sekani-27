@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/Sekani-27/Sekani-27/9fb7dff8a329fb01db4baf0299e11cd173481c5f/ChatGPT%20Image%20Oct%207%2C%202025%2C%2011_39_14%20AM.png)
+https://github.com/Sekani-27/Sekani-27/blob/main/ChatGPT%20Image%20Oct%207,%202025,%2011_39_14%20AM.png?raw=true
 # 👋 Hi, I'm Ntando Miya
 
 💻 **Developer | DevOps Enthusiast | Tech Innovator**
