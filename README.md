@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Sekani-27/Sekani-27/blob/main/ChatGPT%20Image%20Oct%207,%202025,%2011_39_14%20AM.png?raw=true" alt="Ntando Miya - Developer & DevOps Enthusiast" height="90" width="80%">
+  <img src="https://github.com/Sekani-27/Sekani-27/blob/main/ChatGPT%20Image%20Oct%207,%202025,%2011_39_14%20AM.png?raw=true" alt="Ntando Miya - Developer & DevOps Enthusiast" height="1025" width="80%">
 </p>
 
 # 👋 Hi, I'm Ntando Miya
