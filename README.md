@@ -1,43 +1,78 @@
 
 <p align="center">
-  <img src="https://github.com/Sekani-27/Sekani-27/blob/main/Ntando%20Banner-modified.png?raw=true" alt="Ntando Miya - Developer & DevOps Enthusiast" height="370" width="90%">
+  <img src="https://github.com/Sekani-27/Sekani-27/blob/main/Ntando%20Banner-modified.png?raw=true" alt="Ntando Miya - DevOps & AI Platform Engineer" height="370" width="90%">
 </p>
 
 #  Hi, I'm Ntando Miya
 
- **Developer | DevOps Enthusiast | Tech Innovator**
+ **DevOps & AI Platform Engineer | Backend Developer | Tech Innovator**
 
-I'm passionate about building efficient systems — from backend logic to automated deployment pipelines.  
-Currently exploring **cloud technologies**, **CI/CD pipelines**, and **containerization** as I grow in the DevOps space.
+I build **AI-driven developer platforms** that automate software engineering workflows — from **prompt → code generation → CI/CD pipelines → observability**.
+
+My focus is on **scalable systems, automation, and integrating AI into real-world engineering workflows**.
 
 ---
 
-###  Tech Stack
+##  Tech Stack
+
 **Languages:** Python | Dart | Java | JavaScript  
-**Tools & Frameworks:** Flutter | Node.js | FastAPI  
-**DevOps & Cloud:** Docker | Gitlab CI/CD | Linux | Helm | Kubernetes | AWS (learning)
+
+**Backend & Frameworks:** FastAPI | Node.js | Flutter  
+
+**DevOps & Infrastructure:**
+- **Kubernetes** (minikube, networking, ingress, network policies)
+- **Docker** & containerized microservices  
+- **Helm** (production-grade deployments)  
+- **GitLab CI/CD** (self-hosted runners & pipelines)  
+
+**AI & Data:**
+- **Ollama** (LLM serving – TinyLlama, Mistral)  
+- **Qdrant** (vector database)  
+- **Embedding pipelines & AI orchestration**  
+
+**Observability:**
+- **Prometheus | Grafana | Loki** (logs, metrics, alerts)  
 
 ---
 
-###  Projects
--  **AI Content Generator** – built an AI tool that creates technical documentation and code explanations  
--  **Flutter Banking App** – designed and built a mobile app for financial transactions  
--  **Automation Scripts** – automating repetitive tasks using Python + Bash  
+##  Key Projects
+
+### 🔹 AI-Driven Engineering Platform
+Built a **Kubernetes-based platform** that automates the software development lifecycle:
+
+- Prompt → **code/test generation (LLM-powered)**  
+- Automated integration with **GitLab repositories**  
+- **CI/CD pipeline triggering and validation**  
+- Observability with **Prometheus, Grafana, and Loki**  
+- Modular microservices (**Orchestrator, Tool Registry, Embedding Service**)  
+
+ Acts as an **AI-powered developer assistant at infrastructure level**
 
 ---
 
-###  Currently Learning
-- Docker & container orchestration  
-- CI/CD pipelines with GitHub Actions  
-- Cloud infrastructure & monitoring tools  
+### 🔹 AI Content Generator
+AI tool that generates **technical documentation and code explanations** using LLMs.
 
 ---
 
-###  Connect with Me
-- GitHub: [github.com/ntandomiya](https://github.com/Sekani-27)  
-
+### 🔹 Flutter Banking App
+Mobile banking app with **transaction handling and UI/UX design**.
 
 ---
+
+##  Currently Advancing
+- **Cloud infrastructure (AWS & scalable deployments)**  
+- **Platform engineering patterns**  
+- **AI + DevOps integration (AI-driven automation systems)**  
+
+---
+
+##  Connect with Me
+- GitHub: https://github.com/Sekani-27  
+
+---
+
+> **“Build systems that build systems.”**
 
 > “Code, automate, deploy — repeat.”
 
