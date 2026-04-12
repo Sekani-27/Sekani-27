@@ -15,7 +15,7 @@ Currently exploring **cloud technologies**, **CI/CD pipelines**, and **container
 ###  Tech Stack
 **Languages:** Python | Dart | Java | JavaScript  
 **Tools & Frameworks:** Flutter | Node.js | FastAPI  
-**DevOps & Cloud:** Docker | GitHub Actions | Linux | CI/CD | AWS (learning)
+**DevOps & Cloud:** Docker | Gitlab CI/CD | Linux | Helm | Kubernetes | AWS (learning)
 
 ---
 
