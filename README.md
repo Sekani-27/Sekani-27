@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sekani-27/Sekani-27/blob/main/Banner%201.png?raw=true"
+  <img src="(https://github.com/Sekani-27/Sekani-27/blob/main/Banner%202.png)"
        alt="Ntando Miya - Platform, DevOps & Full-Stack Engineer"
        height="370"
        style="border-radius: 24px;"
