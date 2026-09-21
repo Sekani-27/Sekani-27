@@ -1,6 +1,6 @@
 <p align="center">
 <img
-  src="https://github.com/Sekani-27/Sekani-27/blob/main/Banner%202.png?raw=true"
+  src="https://github.com/Sekani-27/Sekani-27/blob/main/Banner%204.png?raw=true"
   alt="Ntando Miya - Platform, DevOps & Full-Stack Engineer"
   width="95%"
   style="border-radius: 90px;"
