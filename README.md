@@ -2,8 +2,8 @@
 <img
   src="https://github.com/Sekani-27/Sekani-27/blob/main/Banner%202.png?raw=true"
   alt="Ntando Miya - Platform, DevOps & Full-Stack Engineer"
-  width="90%"
-  style="border-radius: 24px;"
+  width="95%"
+  style="border-radius: 30px;"
 >
 </p>
 
