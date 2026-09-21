@@ -3,7 +3,7 @@
   src="https://github.com/Sekani-27/Sekani-27/blob/main/Banner%202.png?raw=true"
   alt="Ntando Miya - Platform, DevOps & Full-Stack Engineer"
   width="95%"
-  style="border-radius: 50px;"
+  style="border-radius: 20%;"
 >
 </p>
 
